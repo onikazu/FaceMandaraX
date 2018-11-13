@@ -8,6 +8,7 @@ dlib
 face_recognition
 faiss
 
+~~~
 faiss
 # CPU version only
 conda install faiss-cpu -c pytorch
@@ -16,6 +17,7 @@ conda install faiss-gpu -c pytorch # [DEFAULT]For CUDA8.0
 conda install faiss-gpu cuda90 -c pytorch # For CUDA9.0
 conda install faiss-gpu cuda91 -c pytorch # For CUDA9.1
 # cuda90/cuda91 shown above is a feature, it doesn't install CUDA for you.
+~~~
 
 ## Usage
 - At first, install the packages
