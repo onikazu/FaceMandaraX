@@ -4,9 +4,13 @@ FaceMandara searches similar face to you in real time from over 200,000 face dat
 
 ## Dependency(I checked it could work)
 OS: MacOS10.13.6 or Ubuntu16.04
+
 dlib
+
 face_recognition
+
 faiss
+
 opencv-python
 
 ## Usage
