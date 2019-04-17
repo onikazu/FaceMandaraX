@@ -4,14 +4,15 @@ FaceMandara searches similar face to you in real time from over 200,000 face dat
 
 ## Dependency(I checked it could work)
 OS: MacOS10.13.6 or Ubuntu16.04
+dlib 19.17.0
+face_recognition 1.2.3
+faiss 1.5.1
+opencv-python 4.1.0.25
 
-dlib
+## This application works like below
+![woman](https://github.com/onikazu/FaceMandaraX/blob/master/images/woman.png)
 
-face_recognition
-
-faiss
-
-opencv-python
+![man](https://github.com/onikazu/FaceMandaraX/blob/master/images/man.png)
 
 ## Usage
 - At first, install Anaconda.
