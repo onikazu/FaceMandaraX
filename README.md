@@ -12,7 +12,7 @@ opencv-python 4.1.0.25
 ## This application works like below
 ![woman](https://github.com/onikazu/FaceMandaraX/blob/master/images/mandala2.gif)
 
-![man](https://github.com/onikazu/FaceMandaraX/blob/master/images/mandala2.gif)
+![man](https://github.com/onikazu/FaceMandaraX/blob/master/images/mandala.gif)
 
 ## Usage
 - At first, install Anaconda.
