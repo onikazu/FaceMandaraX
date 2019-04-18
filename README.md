@@ -10,9 +10,9 @@ faiss 1.5.1
 opencv-python 4.1.0.25
 
 ## This application works like below
-![woman](https://github.com/onikazu/FaceMandaraX/blob/master/images/woman.png)
+![woman](https://github.com/onikazu/FaceMandaraX/blob/master/images/mandala2.gif)
 
-![man](https://github.com/onikazu/FaceMandaraX/blob/master/images/man.png)
+![man](https://github.com/onikazu/FaceMandaraX/blob/master/images/mandala2.gif)
 
 ## Usage
 - At first, install Anaconda.
